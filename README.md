@@ -1,4 +1,4 @@
-# Implementation and Optimization of Brute-Force Algorithms
+# Implementation of Decrease and Conquer Algorithms
 
 ## Team Members
 **Group 5 of BSCS 2-5**
@@ -26,7 +26,7 @@ This repository includes the following decrease and conquer techniques:
 
 ### Directory Structure:
 ```bash
-5-MP2/
+5-MP3/
 │
 ├── README.md                        
 ├── .gitignore                       
