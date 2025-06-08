@@ -16,13 +16,11 @@
 
 ## About
 
-//to be updated
+This Machine Problem activity showcases the implementation of Decrease and Conquer technique, where it highlights its specialization in reducing the input size or factor to break down a complex problem into its simpler version.
 
 This repository includes the following decrease and conquer techniques:
-1. **Russian Multiplication Method** – *add details here*
-2. **Binary Search** – *add details here*
-
-*more details*
+1. **Binary Search** – In the Binary Search algorithm, the process works by repeatedly dividing the search space in half until the target element is found, or is determined to be non-existent in the dataset. The middle element is used to compare against the target value during the search. It is determined by taking the floor division of the sum of the low and high indices, and this is recursively done until the target element is found.
+2. **Russian Multiplication Method** – The Russian Multiplication Method is a multiplication technique that doubles and halves the multiplicand and multiplier, then adds the multiplier values corresponding to odd multiplicands.
 
 ### Directory Structure:
 ```bash
